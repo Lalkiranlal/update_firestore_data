@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "991429663871",
+    "project_id": "retreivedatafromfirestore",
+    "storage_bucket": "retreivedatafromfirestore.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991429663871:android:b944cf92e1eddcaa51334a",
+        "android_client_info": {
+          "package_name": "com.example.retreivedatafromfirestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991429663871-1vhe3p9jbb4kvc9op6ha4l1uoi6alr3q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAVOdM7A57IFo_9TEnu_opS4ZS1oXkjjc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991429663871-1vhe3p9jbb4kvc9op6ha4l1uoi6alr3q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
